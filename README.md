@@ -63,11 +63,11 @@ PUPPETEER_SKIP_CHROMIUM_DOWNLOAD (required), if you are running on windows remov
    PUPPETEER_EXECUTABLE_PATH (required), if you are running on windows remove it
    MONGODB_URI (required) (get it from https://cloud.mongodb.com/)
    DEFAULT_LANGUAGE (optional)
-   BOT_NUMBER (botnumber)
-   OWNER_NUMBER (yournumber)
+   BOT_NUMBER (2348123910471)
+   OWNER_NUMBER (2348123910471)
    NUMVERIFY_KEY (optional)
    CHARAI_TOKEN 1e211bddcee16b5b853b3f9c740502722ee49623  (see how to get https://pycai.gitbook.io/welcome/api/values#key-token)
-   CHATBOT (optional) (set default chatbot true/false)
+   CHATBOT (Aneesa) (set default chatbot true/false)
    INSTALLATION_ID (optional) (get truecaller installation ID from https://replit.com/@E-Venture/truecaller-installation-id?v=1)
 
 ```  
